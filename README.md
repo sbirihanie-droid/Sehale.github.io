@@ -21,6 +21,6 @@ sehale web page
 <br>and dissapears like a fogg<br>
 </p3>
     <h3>USA constitution</h3>
-<p4>we the people of united states of america, inorder to make a more perfect union, establish justice, insure domestic tranquility now here by we establish the constitution of united states of america </p4>
+<p4>we the people of united states of america, inorder to make a more perfect union, <em>establish justice</em>, insure domestic <bold></bold>tranquility now here by we establish the constitution of united states of america </p4>
 <h4>sub and sup script<\h4>
   hay <em>mark</em> how u ve been doing ! ive been learning about<sub>submarine<\sub> and <sup>supermarine<\sup> of html lately.
