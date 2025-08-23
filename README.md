@@ -13,3 +13,10 @@ sehale web page
   <p2>
   markup is part of htlm with a special meaning.
   </p2>
+<p3>
+<br>fear no more <br>
+<br>the winds of the sky<br>
+<br>the scorches of the earth<br>
+<br>that beauty grows <br>
+<br>and dissapears like a fogg<br>
+</p3>
