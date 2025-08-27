@@ -31,5 +31,12 @@ sehale web page
     <p>world wide web is a collection of documents and files and most of them are written in HTML hyper text mark up language.</p>
     <h>what is HTML</h>
     <P>HTML stands for hyper text markup language. it tells the structure and the layout of of a web page.</P>
+    <h1>my chemistry notes</h1>
+    <p>
+    <strong/>molecular name:<strong/><em>sulfur hexafluoride</em>
+      <p/>
+        <p><srong>molecular formula:<srong/>FS<sub>6<sub/> <p/>
+        <p>notes: this gas has higher density than <mark>air</mark> </p>
+  
   
 
